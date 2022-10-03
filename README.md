@@ -1,3 +1,3 @@
 # Git-ourpractice
 
-the quick brown
+The quick brown jumped over the lazy dog. Let's not push it!
