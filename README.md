@@ -1,3 +1,3 @@
 # Git-ourpractice
 
-The quick brown
+the quick brown
